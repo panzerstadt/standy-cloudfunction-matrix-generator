@@ -4,18 +4,18 @@ const convertRawDataToMatrix = data => {
     x: 50,
     y: 50
   };
-  const boundsReal = {
+  const bounds = {
     topLeft: {
-      lat: 35.730415,
-      lng: 139.680338
+      lat: 35.726635,
+      lng: 139.67941
     },
     bottomRight: {
-      lat: 36.632705,
-      lng: 139.810916
+      lat: 35.64497384,
+      lng: 139.7787656
     }
   };
 
-  const bounds = {
+  const boundsDummy = {
     topLeft: {
       lat: 35.53,
       lng: 139.68
